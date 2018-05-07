@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="9.0.1" class="java.beans.XMLDecoder">
+ <object class="com.vince.xml.Person">
+  <void property="address">
+   <string>韩城</string>
+  </void>
+  <void property="email">
+   <string>vince@163.com</string>
+  </void>
+  <void property="fax">
+   <string>voce.sss</string>
+  </void>
+  <void property="name">
+   <string>kobe</string>
+  </void>
+  <void property="personid">
+   <string>3258</string>
+  </void>
+  <void property="tel">
+   <string>1344540988</string>
+  </void>
+ </object>
+</java>
